@@ -2,9 +2,7 @@
 
 **Name:** Aadi Jain | **Reg No:** 25BCE10331 | CSE, First Year | VIT Bhopal University
 
-*Focused on college students in India. Updated: March 2026.*
 
----
 
 ## General Online Safety
 
@@ -26,7 +24,6 @@
 6. **Do not download attachments from unknown senders.**
    Attachments in phishing emails often contain malware or ransomware. If you are unsure about an email, contact the sender through a different channel to verify.
 
----
 
 ## Financial & UPI Safety (India-specific)
 
@@ -36,7 +33,7 @@
 8. **Be cautious of "receive money" requests on UPI apps.**
    A common scam involves sending a payment request and claiming it is a money transfer. Entering your PIN to "accept" money actually authorises a payment FROM your account. Always read the transaction screen carefully before entering your PIN.
 
----
+
 
 ## Reporting Cybercrime in India
 
@@ -46,6 +43,6 @@ If you or someone you know has been a victim of phishing, online fraud, or any c
 - **Cyber Crime Helpline:** **1930** (available 24×7, all states)
 - Report immediately — early reporting increases the chance of recovering lost funds and catching attackers.
 
----
 
-*This checklist was created as part of the CSE0001 Digital Literacy project, VIT Bhopal University.*
+
+
