@@ -1,20 +1,20 @@
 TASK 4 – PROFESSIONAL EMAIL DRAFTS
-===================================
+
 Name: Aadi Jain | Reg No: 25BCE10331 | CSE, First Year | VIT Bhopal University
-===================================
+
 
 
 EMAIL 1 – Request for Assignment Deadline Extension
-----------------------------------------------------
 
-To: [professor@vitbhopal.ac.in]
+
+To: sasmitapadhya@vitbhopal.ac.in
 Subject: Request for Extension on Assignment Submission – CSE0001 Digital Literacy
 
-Dear Professor [Last Name],
+Dear Professor ,
 
-I hope this email finds you well. I am writing to respectfully request a short extension on the submission deadline for the CSE0001 Digital Literacy project assignment, currently due on [original due date].
+I hope this email finds you well. I am writing to respectfully request a short extension on the submission deadline for the CSE0001 Digital Literacy project assignment, currently due on [31/03/26].
 
-Due to [brief, honest reason — e.g., a medical issue / overlapping deadlines from three courses this week], I have been unable to complete the work to the standard I know it should meet. I have already completed Tasks 1 through 3 and am in the final stages of Tasks 4 and 5. I am requesting an extension of three additional days, until [new proposed date], to ensure I submit work that reflects my full effort.
+Due to a medical issue , I have been unable to complete the work to the standard I know it should meet. I have already completed Tasks 1 through 3 and am in the final stages of Tasks 4 and 5. I am requesting an extension of three additional days, until 3/04/26 , to ensure I submit work that reflects my full effort.
 
 I sincerely apologise for any inconvenience this may cause. I would be happy to provide supporting documentation if required.
 
@@ -25,25 +25,25 @@ Aadi Jain
 Reg. No: 25BCE10331
 B.Tech CSE, First Year
 VIT Bhopal University
-[college email address]
+aadi.25bce10331@vitbhopal.ac.in
 
+---------******************************************************************************************************************------------
 
-----------------------------------------------------
 
 
 EMAIL 2 – Expression of Interest in Summer Internship
-------------------------------------------------------
 
-To: [hr@companyname.com]
+
+To: hr@tcs.com
 Subject: Application for Summer Internship – Computer Science Student, VIT Bhopal
 
-Dear [Hiring Manager's Name / HR Team],
+Dear sushil singh(manager) ,
 
-I am writing to express my interest in a summer internship opportunity at [Company Name]. I am currently a first-year B.Tech student in Computer Science and Engineering at VIT Bhopal University (Registration No: 25BCE10331), with a strong interest in [mention relevant field: software development / data science / web development].
+I am writing to express my interest in a summer internship opportunity at [Company Name]. I am currently a first-year B.Tech student in Computer Science and Engineering at VIT Bhopal University (Registration No: 25BCE10331), with a strong interest in web development.
 
-I am eager to apply my academic foundation in programming, problem-solving, and digital tools in a professional environment. I have recently begun building my technical portfolio on GitHub and am actively developing my skills in [relevant skills: Python / C++ / data analysis]. I believe an internship at [Company Name] would provide invaluable industry exposure and allow me to contribute meaningfully to your team.
+I am eager to apply my academic foundation in programming, problem-solving, and digital tools in a professional environment. I have recently begun building my technical portfolio on GitHub and am actively developing my skills in C++ . I believe an internship at TCS would provide invaluable industry exposure and allow me to contribute meaningfully to your team.
 
-I would be grateful for the opportunity to speak with you about any available internship positions. I have attached my resume for your reference. Please feel free to contact me at [college email address] or [phone number].
+I would be grateful for the opportunity to speak with you about any available internship positions. I have attached my resume for your reference. Please feel free to contact me at (aadi.25bce10331@vitbhopal.ac.in) or 9039220771 .
 
 Thank you for considering my application. I look forward to hearing from you.
 
@@ -52,7 +52,7 @@ Aadi Jain
 B.Tech CSE, First Year
 VIT Bhopal University
 Reg. No: 25BCE10331
-[college email address]
-[phone number]
+[aadi.25bce10331@vitbhopal.ac.in]
+[9039220771]
 
-------------------------------------------------------
+
